@@ -1,0 +1,11 @@
+.h2{
+    display: block;
+    width: 100%;
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
